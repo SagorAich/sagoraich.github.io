@@ -2,7 +2,7 @@
 title: "Analyzing Bot Activity and Political Discourse in the 2024 U.S. Presidential Election: A Machine Learning
  Approach to Misinformation and Manipulation"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ' This study examines bot activity in 50,191 tweets from the 2024 U.S. Presidential Election using Botometer and a
  Random Forest model. Despite a low bot presence (2.22%), bots show strategic impact—especially in cross-party
