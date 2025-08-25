@@ -1,6 +1,6 @@
 ---
 #title: "Portfolio item number 1"
-excerpt: "<br/><img src='/images/4.png'>"
+excerpt: "<br/><img src='/images/4.JPG'>"
 collection: portfolio
 ---
 
