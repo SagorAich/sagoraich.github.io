@@ -1,7 +1,7 @@
 ---
 title: "Compositions, Frames, and Light in Phtography"
 collection: teaching
-type: " লিখবো"
+type: " likhbo"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Admin building, Rajshahi University of Engineering & \nTechnology "
 date: 2020
